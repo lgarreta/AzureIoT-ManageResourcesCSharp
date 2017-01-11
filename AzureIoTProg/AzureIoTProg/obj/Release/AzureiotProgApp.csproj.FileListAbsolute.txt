@@ -1,0 +1,108 @@
+C:\Users\lg\Documents\Visual Studio 2015\Projects\CreateIoTHub\CreateIoTHub\bin\Release\AzureProg.exe.config
+C:\Users\lg\Documents\Visual Studio 2015\Projects\CreateIoTHub\CreateIoTHub\bin\Release\AzureProg.exe
+C:\Users\lg\Documents\Visual Studio 2015\Projects\CreateIoTHub\CreateIoTHub\bin\Release\AzureProg.pdb
+C:\Users\lg\Documents\Visual Studio 2015\Projects\CreateIoTHub\CreateIoTHub\bin\Release\Hyak.Common.dll
+C:\Users\lg\Documents\Visual Studio 2015\Projects\CreateIoTHub\CreateIoTHub\bin\Release\Microsoft.Azure.Common.dll
+C:\Users\lg\Documents\Visual Studio 2015\Projects\CreateIoTHub\CreateIoTHub\bin\Release\Microsoft.Azure.Common.NetFramework.dll
+C:\Users\lg\Documents\Visual Studio 2015\Projects\CreateIoTHub\CreateIoTHub\bin\Release\Microsoft.Azure.Management.ResourceManager.dll
+C:\Users\lg\Documents\Visual Studio 2015\Projects\CreateIoTHub\CreateIoTHub\bin\Release\Microsoft.Azure.Management.Storage.dll
+C:\Users\lg\Documents\Visual Studio 2015\Projects\CreateIoTHub\CreateIoTHub\bin\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\lg\Documents\Visual Studio 2015\Projects\CreateIoTHub\CreateIoTHub\bin\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\lg\Documents\Visual Studio 2015\Projects\CreateIoTHub\CreateIoTHub\bin\Release\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\lg\Documents\Visual Studio 2015\Projects\CreateIoTHub\CreateIoTHub\bin\Release\Microsoft.Rest.ClientRuntime.dll
+C:\Users\lg\Documents\Visual Studio 2015\Projects\CreateIoTHub\CreateIoTHub\bin\Release\Microsoft.Threading.Tasks.dll
+C:\Users\lg\Documents\Visual Studio 2015\Projects\CreateIoTHub\CreateIoTHub\bin\Release\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\lg\Documents\Visual Studio 2015\Projects\CreateIoTHub\CreateIoTHub\bin\Release\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\lg\Documents\Visual Studio 2015\Projects\CreateIoTHub\CreateIoTHub\bin\Release\Newtonsoft.Json.dll
+C:\Users\lg\Documents\Visual Studio 2015\Projects\CreateIoTHub\CreateIoTHub\bin\Release\System.Net.Http.Extensions.dll
+C:\Users\lg\Documents\Visual Studio 2015\Projects\CreateIoTHub\CreateIoTHub\bin\Release\System.Net.Http.Primitives.dll
+C:\Users\lg\Documents\Visual Studio 2015\Projects\CreateIoTHub\CreateIoTHub\bin\Release\Hyak.Common.xml
+C:\Users\lg\Documents\Visual Studio 2015\Projects\CreateIoTHub\CreateIoTHub\bin\Release\Microsoft.Azure.Common.xml
+C:\Users\lg\Documents\Visual Studio 2015\Projects\CreateIoTHub\CreateIoTHub\bin\Release\Microsoft.Azure.Common.NetFramework.xml
+C:\Users\lg\Documents\Visual Studio 2015\Projects\CreateIoTHub\CreateIoTHub\bin\Release\Microsoft.Azure.Management.Storage.xml
+C:\Users\lg\Documents\Visual Studio 2015\Projects\CreateIoTHub\CreateIoTHub\bin\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\lg\Documents\Visual Studio 2015\Projects\CreateIoTHub\CreateIoTHub\bin\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+C:\Users\lg\Documents\Visual Studio 2015\Projects\CreateIoTHub\CreateIoTHub\bin\Release\Microsoft.Rest.ClientRuntime.xml
+C:\Users\lg\Documents\Visual Studio 2015\Projects\CreateIoTHub\CreateIoTHub\bin\Release\Microsoft.Rest.ClientRuntime.Azure.xml
+C:\Users\lg\Documents\Visual Studio 2015\Projects\CreateIoTHub\CreateIoTHub\bin\Release\Microsoft.Threading.Tasks.xml
+C:\Users\lg\Documents\Visual Studio 2015\Projects\CreateIoTHub\CreateIoTHub\bin\Release\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\lg\Documents\Visual Studio 2015\Projects\CreateIoTHub\CreateIoTHub\bin\Release\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\lg\Documents\Visual Studio 2015\Projects\CreateIoTHub\CreateIoTHub\bin\Release\Newtonsoft.Json.xml
+C:\Users\lg\Documents\Visual Studio 2015\Projects\CreateIoTHub\CreateIoTHub\bin\Release\System.Net.Http.Extensions.xml
+C:\Users\lg\Documents\Visual Studio 2015\Projects\CreateIoTHub\CreateIoTHub\bin\Release\System.Net.Http.Primitives.xml
+C:\Users\lg\Documents\Visual Studio 2015\Projects\CreateIoTHub\CreateIoTHub\obj\Release\AzureiotProgApp.csproj.App.config
+C:\Users\lg\Documents\Visual Studio 2015\Projects\CreateIoTHub\CreateIoTHub\obj\Release\AzureiotProgApp.csprojResolveAssemblyReference.cache
+C:\Users\lg\Documents\Visual Studio 2015\Projects\CreateIoTHub\CreateIoTHub\obj\Release\AzureProg.exe
+C:\Users\lg\Documents\Visual Studio 2015\Projects\CreateIoTHub\CreateIoTHub\obj\Release\AzureProg.pdb
+C:\Users\lg\Documents\Visual Studio 2015\Projects\AzureIoTProg\AzureIoTProg\bin\Release\AzureProg.exe.config
+C:\Users\lg\Documents\Visual Studio 2015\Projects\AzureIoTProg\AzureIoTProg\obj\Release\AzureProg.exe
+C:\Users\lg\Documents\Visual Studio 2015\Projects\AzureIoTProg\AzureIoTProg\obj\Release\AzureProg.pdb
+C:\Users\lg\Documents\Visual Studio 2015\Projects\AzureIoTProg\AzureIoTProg\bin\Release\AzureProg.exe
+C:\Users\lg\Documents\Visual Studio 2015\Projects\AzureIoTProg\AzureIoTProg\bin\Release\AzureProg.pdb
+C:\Users\lg\Documents\Visual Studio 2015\Projects\AzureIoTProg\AzureIoTProg\bin\Release\Hyak.Common.dll
+C:\Users\lg\Documents\Visual Studio 2015\Projects\AzureIoTProg\AzureIoTProg\bin\Release\Microsoft.Azure.Common.dll
+C:\Users\lg\Documents\Visual Studio 2015\Projects\AzureIoTProg\AzureIoTProg\bin\Release\Microsoft.Azure.Common.NetFramework.dll
+C:\Users\lg\Documents\Visual Studio 2015\Projects\AzureIoTProg\AzureIoTProg\bin\Release\Microsoft.Azure.Management.ResourceManager.dll
+C:\Users\lg\Documents\Visual Studio 2015\Projects\AzureIoTProg\AzureIoTProg\bin\Release\Microsoft.Azure.Management.Storage.dll
+C:\Users\lg\Documents\Visual Studio 2015\Projects\AzureIoTProg\AzureIoTProg\bin\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\lg\Documents\Visual Studio 2015\Projects\AzureIoTProg\AzureIoTProg\bin\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\lg\Documents\Visual Studio 2015\Projects\AzureIoTProg\AzureIoTProg\bin\Release\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\lg\Documents\Visual Studio 2015\Projects\AzureIoTProg\AzureIoTProg\bin\Release\Microsoft.Rest.ClientRuntime.dll
+C:\Users\lg\Documents\Visual Studio 2015\Projects\AzureIoTProg\AzureIoTProg\bin\Release\Microsoft.Threading.Tasks.dll
+C:\Users\lg\Documents\Visual Studio 2015\Projects\AzureIoTProg\AzureIoTProg\bin\Release\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\lg\Documents\Visual Studio 2015\Projects\AzureIoTProg\AzureIoTProg\bin\Release\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\lg\Documents\Visual Studio 2015\Projects\AzureIoTProg\AzureIoTProg\bin\Release\Newtonsoft.Json.dll
+C:\Users\lg\Documents\Visual Studio 2015\Projects\AzureIoTProg\AzureIoTProg\bin\Release\System.Net.Http.Extensions.dll
+C:\Users\lg\Documents\Visual Studio 2015\Projects\AzureIoTProg\AzureIoTProg\bin\Release\System.Net.Http.Primitives.dll
+C:\Users\lg\Documents\Visual Studio 2015\Projects\AzureIoTProg\AzureIoTProg\bin\Release\Hyak.Common.xml
+C:\Users\lg\Documents\Visual Studio 2015\Projects\AzureIoTProg\AzureIoTProg\bin\Release\Microsoft.Azure.Common.xml
+C:\Users\lg\Documents\Visual Studio 2015\Projects\AzureIoTProg\AzureIoTProg\bin\Release\Microsoft.Azure.Common.NetFramework.xml
+C:\Users\lg\Documents\Visual Studio 2015\Projects\AzureIoTProg\AzureIoTProg\bin\Release\Microsoft.Azure.Management.Storage.xml
+C:\Users\lg\Documents\Visual Studio 2015\Projects\AzureIoTProg\AzureIoTProg\bin\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\lg\Documents\Visual Studio 2015\Projects\AzureIoTProg\AzureIoTProg\bin\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+C:\Users\lg\Documents\Visual Studio 2015\Projects\AzureIoTProg\AzureIoTProg\bin\Release\Microsoft.Rest.ClientRuntime.xml
+C:\Users\lg\Documents\Visual Studio 2015\Projects\AzureIoTProg\AzureIoTProg\bin\Release\Microsoft.Rest.ClientRuntime.Azure.xml
+C:\Users\lg\Documents\Visual Studio 2015\Projects\AzureIoTProg\AzureIoTProg\bin\Release\Microsoft.Threading.Tasks.xml
+C:\Users\lg\Documents\Visual Studio 2015\Projects\AzureIoTProg\AzureIoTProg\bin\Release\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\lg\Documents\Visual Studio 2015\Projects\AzureIoTProg\AzureIoTProg\bin\Release\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\lg\Documents\Visual Studio 2015\Projects\AzureIoTProg\AzureIoTProg\bin\Release\Newtonsoft.Json.xml
+C:\Users\lg\Documents\Visual Studio 2015\Projects\AzureIoTProg\AzureIoTProg\bin\Release\System.Net.Http.Extensions.xml
+C:\Users\lg\Documents\Visual Studio 2015\Projects\AzureIoTProg\AzureIoTProg\bin\Release\System.Net.Http.Primitives.xml
+C:\Users\lg\Documents\Visual Studio 2015\Projects\AzureIoTProg\AzureIoTProg\obj\Release\AzureiotProgApp.csproj.App.config
+C:\Users\lg\Documents\Visual Studio 2015\Projects\AzureIoTProg\AzureIoTProg\obj\Release\AzureiotProgApp.csprojResolveAssemblyReference.cache
+d:\azureiot-programming\azureiot-programming-resources\code-visualstudio-app\AzureIoTProg\AzureIoTProg\bin\Release\AzureProg.exe.config
+d:\azureiot-programming\azureiot-programming-resources\code-visualstudio-app\AzureIoTProg\AzureIoTProg\bin\Release\AzureProg.exe
+d:\azureiot-programming\azureiot-programming-resources\code-visualstudio-app\AzureIoTProg\AzureIoTProg\bin\Release\AzureProg.pdb
+d:\azureiot-programming\azureiot-programming-resources\code-visualstudio-app\AzureIoTProg\AzureIoTProg\bin\Release\Hyak.Common.dll
+d:\azureiot-programming\azureiot-programming-resources\code-visualstudio-app\AzureIoTProg\AzureIoTProg\bin\Release\Microsoft.Azure.Common.dll
+d:\azureiot-programming\azureiot-programming-resources\code-visualstudio-app\AzureIoTProg\AzureIoTProg\bin\Release\Microsoft.Azure.Common.NetFramework.dll
+d:\azureiot-programming\azureiot-programming-resources\code-visualstudio-app\AzureIoTProg\AzureIoTProg\bin\Release\Microsoft.Azure.Management.ResourceManager.dll
+d:\azureiot-programming\azureiot-programming-resources\code-visualstudio-app\AzureIoTProg\AzureIoTProg\bin\Release\Microsoft.Azure.Management.Storage.dll
+d:\azureiot-programming\azureiot-programming-resources\code-visualstudio-app\AzureIoTProg\AzureIoTProg\bin\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+d:\azureiot-programming\azureiot-programming-resources\code-visualstudio-app\AzureIoTProg\AzureIoTProg\bin\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+d:\azureiot-programming\azureiot-programming-resources\code-visualstudio-app\AzureIoTProg\AzureIoTProg\bin\Release\Microsoft.Rest.ClientRuntime.Azure.dll
+d:\azureiot-programming\azureiot-programming-resources\code-visualstudio-app\AzureIoTProg\AzureIoTProg\bin\Release\Microsoft.Rest.ClientRuntime.dll
+d:\azureiot-programming\azureiot-programming-resources\code-visualstudio-app\AzureIoTProg\AzureIoTProg\bin\Release\Microsoft.Threading.Tasks.dll
+d:\azureiot-programming\azureiot-programming-resources\code-visualstudio-app\AzureIoTProg\AzureIoTProg\bin\Release\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+d:\azureiot-programming\azureiot-programming-resources\code-visualstudio-app\AzureIoTProg\AzureIoTProg\bin\Release\Microsoft.Threading.Tasks.Extensions.dll
+d:\azureiot-programming\azureiot-programming-resources\code-visualstudio-app\AzureIoTProg\AzureIoTProg\bin\Release\Newtonsoft.Json.dll
+d:\azureiot-programming\azureiot-programming-resources\code-visualstudio-app\AzureIoTProg\AzureIoTProg\bin\Release\System.Net.Http.Extensions.dll
+d:\azureiot-programming\azureiot-programming-resources\code-visualstudio-app\AzureIoTProg\AzureIoTProg\bin\Release\System.Net.Http.Primitives.dll
+d:\azureiot-programming\azureiot-programming-resources\code-visualstudio-app\AzureIoTProg\AzureIoTProg\bin\Release\Hyak.Common.xml
+d:\azureiot-programming\azureiot-programming-resources\code-visualstudio-app\AzureIoTProg\AzureIoTProg\bin\Release\Microsoft.Azure.Common.xml
+d:\azureiot-programming\azureiot-programming-resources\code-visualstudio-app\AzureIoTProg\AzureIoTProg\bin\Release\Microsoft.Azure.Common.NetFramework.xml
+d:\azureiot-programming\azureiot-programming-resources\code-visualstudio-app\AzureIoTProg\AzureIoTProg\bin\Release\Microsoft.Azure.Management.Storage.xml
+d:\azureiot-programming\azureiot-programming-resources\code-visualstudio-app\AzureIoTProg\AzureIoTProg\bin\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+d:\azureiot-programming\azureiot-programming-resources\code-visualstudio-app\AzureIoTProg\AzureIoTProg\bin\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+d:\azureiot-programming\azureiot-programming-resources\code-visualstudio-app\AzureIoTProg\AzureIoTProg\bin\Release\Microsoft.Rest.ClientRuntime.xml
+d:\azureiot-programming\azureiot-programming-resources\code-visualstudio-app\AzureIoTProg\AzureIoTProg\bin\Release\Microsoft.Rest.ClientRuntime.Azure.xml
+d:\azureiot-programming\azureiot-programming-resources\code-visualstudio-app\AzureIoTProg\AzureIoTProg\bin\Release\Microsoft.Threading.Tasks.xml
+d:\azureiot-programming\azureiot-programming-resources\code-visualstudio-app\AzureIoTProg\AzureIoTProg\bin\Release\Microsoft.Threading.Tasks.Extensions.xml
+d:\azureiot-programming\azureiot-programming-resources\code-visualstudio-app\AzureIoTProg\AzureIoTProg\bin\Release\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+d:\azureiot-programming\azureiot-programming-resources\code-visualstudio-app\AzureIoTProg\AzureIoTProg\bin\Release\Newtonsoft.Json.xml
+d:\azureiot-programming\azureiot-programming-resources\code-visualstudio-app\AzureIoTProg\AzureIoTProg\bin\Release\System.Net.Http.Extensions.xml
+d:\azureiot-programming\azureiot-programming-resources\code-visualstudio-app\AzureIoTProg\AzureIoTProg\bin\Release\System.Net.Http.Primitives.xml
+d:\azureiot-programming\azureiot-programming-resources\code-visualstudio-app\AzureIoTProg\AzureIoTProg\obj\Release\AzureiotProgApp.csproj.App.config
+d:\azureiot-programming\azureiot-programming-resources\code-visualstudio-app\AzureIoTProg\AzureIoTProg\obj\Release\AzureiotProgApp.csprojResolveAssemblyReference.cache
+d:\azureiot-programming\azureiot-programming-resources\code-visualstudio-app\AzureIoTProg\AzureIoTProg\obj\Release\AzureProg.exe
+d:\azureiot-programming\azureiot-programming-resources\code-visualstudio-app\AzureIoTProg\AzureIoTProg\obj\Release\AzureProg.pdb

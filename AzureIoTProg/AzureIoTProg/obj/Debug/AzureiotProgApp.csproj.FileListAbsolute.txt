@@ -1,0 +1,2 @@
+C:\Users\lg\Documents\Visual Studio 2015\Projects\CreateIoTHub\CreateIoTHub\bin\Debug\CreateIoTHub.exe.config
+C:\Users\lg\Documents\Visual Studio 2015\Projects\CreateIoTHub\AzureProg\bin\Debug\AzureProg.exe.config
